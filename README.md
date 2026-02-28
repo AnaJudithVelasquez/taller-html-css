@@ -3,10 +3,10 @@
 
 ## 📌 Descripción
 
-El sitio web presenta una estructura básica de una página informativa que incluye:
+El sitio web muestra una estructura básica de una página informativa que incluye:
 
 ✔ Barra de navegación  
-✔ Sección de artículos  
+✔ Sección de imagenes e info mía.  
 ✔ Formulario de contacto  
 ✔ Tabla de habilidades  
 ✔ Pie de página  

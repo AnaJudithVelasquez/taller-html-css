@@ -1,4 +1,3 @@
-/* ===== RESET BÁSICO ===== */
 * {
   margin: 0;
   padding: 0;
@@ -31,11 +30,11 @@ body {
   text-decoration: underline;
 }
 
-/* ===== CONTENEDOR CENTRADO ===== */
+/* ===== CONTENEDOR ===== */
 .container {
-  max-width: 1000px;     /* 🔥 ancho tipo profe */
-  margin: 0 auto;        /* 🔥 centra el contenido */
-  padding: 50px 20px;    /* 🔥 espacio vertical */
+  max-width: 1000px;     
+  margin: 0 auto;        
+  padding: 50px 20px;    
 }
 
 /* ===== ARTÍCULOS ===== */
@@ -80,14 +79,14 @@ button {
   margin-top: 20px;
   padding: 10px 20px;
   cursor: pointer;
-  background: #982d93; /* color similar al navbar/footer */
+  background: #982d93; 
   color: white;
   border: none;
   border-radius: 4px;
 }
 
 button:hover {
-  background: #7a2675; /* tono más oscuro al pasar el mouse */
+  background: #7a2675; 
 }
 
 /* ===== TABLA ===== */
@@ -103,7 +102,7 @@ th, td {
   text-align: center;
 }
 
-/* color de la fila de encabezado */
+
 thead tr {
   background: #982d93;
   color: white;

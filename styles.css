@@ -109,6 +109,12 @@ thead tr {
 }
 
 
+thead tr:first-child {
+  background: #ca39c2;
+  color: #ffffff;
+}
+
+
 /* ===== FOOTER ===== */
 .footer {
   background: #982d93;

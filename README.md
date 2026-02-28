@@ -48,7 +48,7 @@ El proyecto puede visualizarse mediante GitHub Pages una vez publicado.
 ## 👨‍💻 Autor
 
 **Ana Velasquez: Estudiante de Desarrollo de Aplicaciones Web**  
-Sexto semestre  
+Sexto semestre. 
 
 ---
 

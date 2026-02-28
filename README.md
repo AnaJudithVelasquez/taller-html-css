@@ -3,15 +3,13 @@
 
 ## 📌 Descripción
 
-El sitio web muestra una estructura básica de una página informativa que incluye:
+El sitio web incluye:
 
 ✔ Barra de navegación  
 ✔ Sección de imagenes e info mía.  
 ✔ Formulario de contacto  
 ✔ Tabla de habilidades  
 ✔ Pie de página  
-
-El objetivo principal es aplicar buenas prácticas de maquetación y organización del código.
 
 ---
 

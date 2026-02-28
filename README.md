@@ -23,11 +23,6 @@ El objetivo principal es aplicar buenas prácticas de maquetación y organizaci�
 
 ---
 
-## 📂 Estructura del Proyecto
-
-
----
-
 ## 🎯 Características Implementadas
 
 - Uso de etiquetas semánticas (`header`, `main`, `section`, `article`, `footer`)
